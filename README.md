@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">✦ TECH STACK ✦</h3>
+<h3 align="center"> TECH STACK </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="center">✦ FEATURED PROJECTS ✦</h3>
+<h3 align="center"> FEATURED PROJECTS </h3>
 
 **Meal-Navi**
 
