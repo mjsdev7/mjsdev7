@@ -34,4 +34,16 @@ Meal planning and grocery shopping application.
 
 **Camp-Navi**
 
-Camping discovery platform focused on destinations
+Camping discovery platform focused on destinations across Japan.
+
+[View Project →](https://github.com/mjsdev7/campnavi)
+
+---
+
+<h3 align="center">✦ CONTACT ✦</h3>
+
+<p align="center">
+  <a href="mailto:m.j.swales@hotmail.com">m.j.swales@hotmail.com</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/mjsdev7">GitHub</a>
+</p>
