@@ -25,21 +25,21 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Meal-Navi</h3>
-      <p align="center">
-        A meal planning and grocery shopping application designed to make everyday cooking easier.
-      </p>
-      <p align="center">
-        <a href="https://github.com/mjsdev7/Meal-Navi">View Project →</a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">Camp-Navi</h3>
       <p align="center">
         A camping discovery platform helping people explore campsites across Japan.
       </p>
       <p align="center">
         <a href="https://github.com/mjsdev7/Camp-Navi">View Project →</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Meal-Navi</h3>
+      <p align="center">
+        A meal planning and grocery shopping application designed to make everyday cooking easier.
+      </p>
+      <p align="center">
+        <a href="https://github.com/mjsdev7/Meal-Navi">View Project →</a>
       </p>
     </td>
   </tr>
