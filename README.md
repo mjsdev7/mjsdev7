@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mjsdev7/mjsdev7/main/matt-banner-2026.png" width="100%" alt="Matt Swales – Full-Stack Developer & UX/UI Designer" />
+  <img src="./github-banner.png" width="100%" alt="Matt Swales – Full-Stack Developer & UX/UI Designer" />
 </div>
+
 <h2 align="center">Hi there, I'm Matt! 👋</h2>
 
 <p align="center">
