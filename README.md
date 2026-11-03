@@ -2,7 +2,7 @@
   <img src="./github-banner.png" width="100%" alt="Matt Swales – Full-Stack Developer & UX/UI Designer" />
 </div>
 
-<h2 align="center">Hi there, I'm Matt! 👋</h2>
+<h2 align="center">Hi there, I'm Matt! </h2>
 
 <p align="center">
   I'm a full-stack developer and UX/UI designer who enjoys bringing ideas to life through design and code.
@@ -56,8 +56,4 @@
 
 <p align="center">
   <a href="mailto:m.j.swales@hotmail.com">EMAIL</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/mjsdev7">GITHUB</a>
 </p>
-
-<p align="center">Made with ❤️ by Matt</p>
