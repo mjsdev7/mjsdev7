@@ -2,10 +2,6 @@
   <img src="./github-banner.png" width="100%" alt="Matt – Frontend Developer & UX/UI Designer" />
 </div>
 
-<div align="center">
-  <img src="./github-banner.png" width="100%" alt="Matt – Frontend Developer & UX/UI Designer" />
-</div>
-
 <h2 align="center">Frontend Developer & UX/UI Designer</h2>
 
 <p align="center">
