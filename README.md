@@ -1,6 +1,4 @@
- <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Matt Swales – Full-Stack Developer & UX/UI Designer" />
-</div>
+<img src="./github-banner.png?v=2" width="100%" alt="Matt Swales – Full-Stack Developer & UX/UI Designer" />
 
 <h2 align="center">Hi there, I'm Matt! 👋</h2>
 
