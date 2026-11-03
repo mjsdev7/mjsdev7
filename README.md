@@ -47,19 +47,6 @@
 
 ---
 
-<h3 align="center">GITHUB STATISTICS</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mjsdev7&show_icons=true&theme=transparent&hide_border=true&title_color=E5B86B&icon_color=E5B86B&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsdev7&layout=compact&theme=transparent&hide_border=true&title_color=E5B86B&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mjsdev7&theme=dark&hide_border=true&ring=E5B86B&fire=E5B86B&currStreakLabel=E5B86B" />
-</p>
-
----
-
 <h3 align="center">LET'S CONNECT</h3>
 
 <p align="center">
