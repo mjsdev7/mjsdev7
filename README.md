@@ -39,7 +39,7 @@
         A camping discovery platform helping people explore campsites across Japan.
       </p>
       <p align="center">
-        <a href="https://github.com/mjsdev7/campnavi">View Project →</a>
+        <a href="https://github.com/mjsdev7/Camp-Navi">View Project →</a>
       </p>
     </td>
   </tr>
