@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">TECH STACK</h3>
+<h3 align="center">✦ TECH STACK ✦</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -24,19 +24,14 @@
 
 ---
 
-<h3 align="center">FEATURED PROJECTS</h3>
+<h3 align="center">✦ FEATURED PROJECTS ✦</h3>
 
-**Meal-Navi** — Meal planning and grocery shopping application.
+**Meal-Navi**
+
+Meal planning and grocery shopping application.
 
 [View Project →](https://github.com/mjsdev7/Meal-Navi)
 
-**Camp-Navi** — Camping discovery platform focused on Japan.
+**Camp-Navi**
 
-[View Project →](https://github.com/mjsdev7/campnavi)
-
----
-
-<h3 align="center">CONTACT</h3>
-
-<p align="center">
-  <a href="mailto
+Camping discovery platform focused on destinations
