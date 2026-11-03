@@ -2,48 +2,50 @@
   <img src="./github-banner.png" width="100%" alt="Matt Swales – UX/UI Designer & Frontend Developer" />
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm Matt, a UX/UI Designer and Frontend Developer passionate about creating thoughtful digital experiences through design and code.
+Frontend Developer & UX/UI Designer focused on building
+modern, responsive and user-friendly digital experiences.
 
-I enjoy combining visual design with frontend development to turn ideas into functional, intuitive and polished products.
+I enjoy combining design and development to turn ideas
+into polished, functional products.
 
-## Tech Stack
+## 🌐 Socials
 
-**Frontend**
-- HTML5 · CSS3 · JavaScript · TypeScript
-- React · Vite · Material UI
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mjsdev7)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.j.swales@hotmail.com)
 
-**Backend**
-- Node.js · Express.js · MongoDB
+## 🛠️ Tech Stack
 
-**Design**
-- Figma · UI/UX Design · Wireframing · Prototyping
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Meal-Navi
-A meal planning application designed to simplify meal preparation, recipe management and grocery shopping.
+Meal planning and grocery shopping application.
 
-**Tech:** React · JavaScript · Node.js · Express · MongoDB
-
-[View Repository](https://github.com/mjsdev7/Meal-Navi)
+[View on GitHub](https://github.com/mjsdev7/Meal-Navi)
 
 ### Camp-Navi
-A camping discovery platform designed to help people explore camping destinations across Japan.
+Camping discovery platform focused on destinations across Japan.
 
-**Tech:** JavaScript · Node.js · Express · EJS
+[View on GitHub](https://github.com/mjsdev7/campnavi)
 
-[View Repository](https://github.com/mjsdev7/campnavi)
+## 📊 GitHub Stats
 
-## Currently Learning
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjsdev7&show_icons=true&theme=tokyonight&hide_border=true)
 
-- Advanced React and TypeScript
-- Modern frontend development
-- UX/UI design and prototyping
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjsdev7&layout=compact&theme=tokyonight&hide_border=true)
 
-## Let's Connect
+## 📫 Contact
 
-- **Portfolio:** Coming soon
-- **GitHub:** [@mjsdev7](https://github.com/mjsdev7)
-- **Email:** [m.j.swales@hotmail.com](mailto:m
+**Email:** m.j.swales@hotmail.com
