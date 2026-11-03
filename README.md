@@ -40,7 +40,7 @@ Camping discovery platform focused on destinations across Japan.
 
 ---
 
-<h3 align="center">✦ CONTACT ✦</h3>
+<h3 align="center"> CONTACT </h3>
 
 <p align="center">
   <a href="mailto:m.j.swales@hotmail.com">m.j.swales@hotmail.com</a>
